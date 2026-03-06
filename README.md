@@ -19,7 +19,7 @@
 
 ```bash
 # 1. Cloner le repo
-git clone https://github.com/ton-user/astrafy-bi-challenge.git
+git clone [https://github.com/ilona08/Astrafy-take-home-challenge.git]
 cd astrafy-bi-challenge/dbt
 
 # 2. Installer les dépendances dbt
@@ -79,7 +79,7 @@ astrafy-bi-challenge/
     └── dashboard_mockup.pdf
 
 ```
-
+Le fichier excel_to_csv.py permet d'écrire les fichiers de données dans le dossier seed de dbt 
 ---
 
 ## Part 1 — Coding Challenge (dbt + BigQuery)
