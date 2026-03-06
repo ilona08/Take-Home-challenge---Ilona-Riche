@@ -80,7 +80,7 @@ astrafy-bi-challenge/
 
 ```
 ---
-Le fichier excel_to_csv.py permet d'écrire les fichiers de données dans le dossier seed de dbt 
+***Le fichier excel_to_csv.py permet d'écrire les fichiers de données dans le dossier seed de dbt ***
 ---
 
 ## Part 1 — Coding Challenge (dbt + BigQuery)
