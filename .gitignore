@@ -1,0 +1,6 @@
+venv311/
+target/
+logs/
+memo_git.txt
+.env
+
